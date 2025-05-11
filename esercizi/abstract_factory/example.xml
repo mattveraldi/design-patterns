@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<example xmlns="http://www.example.com/abstract_factory">
+    <description>
+        Abstract Factory per il parsing di file XML.
+    </description>
+</example>
